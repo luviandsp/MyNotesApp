@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyNotesApp</string>
+    <string name="note_title">Judul Catatan</string>
+    <string name="save">Simpan</string>
+    <string name="delete_confirmation">Konfirmasi Hapus</string>
+    <string name="delete_confirmation_message">Apakah yakin ingin menghapus data ini?</string>
+    <string name="yes">YA</string>
+    <string name="no">TIDAK</string>
+    <string name="edit_note">Ubah Catatan</string>
+    <string name="create_note">Buat Catatan</string>
+    <string name="untitled">Tanpa Judul</string>
+</resources>
