@@ -68,6 +68,8 @@ class MainActivity : AppCompatActivity() {
             fabCreateNote.setOnClickListener {
                 createNote()
             }
+
+            // Testing Branch
         }
     }
 
